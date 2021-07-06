@@ -1,3 +1,11 @@
+void mul()
+{
+  c=a*b
+}
+void div()
+{
+  c=a/b
+}
 void add()
 {
   c=a+b
