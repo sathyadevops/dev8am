@@ -7,7 +7,15 @@ void code-A()
   printf(" code-A ");
 }
 
+void code-B()
+{
+  printf(" code-B ");
+  printf(" code-B ");
+  printf(" code-B ");
+  printf(" code-B ");
+  printf(" code-B ");
 
+}
 
 
 
