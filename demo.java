@@ -1,3 +1,21 @@
+void putData()
+{
+ s.o.print(" PUT DATA");
+ s.o.print(" PUT DATA");
+ s.o.print(" PUT DATA");
+ s.o.print(" PUT DATA");
+ s.o.print(" PUT DATA");
+}
+
+
+
+
+
+
+
+
+
+
 void mul()
 {
   c=a*b
