@@ -1,4 +1,10 @@
-
+void aws_services()
+{
+   EC2
+   VPC
+   RDS
+   ....
+}
 void devops_tools()
 {
    ANSIBLE
