@@ -1,3 +1,24 @@
+
+void devops_tools()
+{
+   ANSIBLE
+   DOCKER
+   PUPPET
+   CHEF
+   ...
+}
+
+
+
+
+
+
+
+
+
+
+
+
 void main()
 {
   void CICD_tool{}
