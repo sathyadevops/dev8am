@@ -5,6 +5,13 @@ class Master-Branch
    **** MASTER-CODE ***** 
    **** MASTER-CODE ***** 
 }
+class Banch-Code
+{
+    :::::: BRANCH-CODE ::::::
+    :::::: BRANCH-CODE ::::::
+    :::::: BRANCH-CODE ::::::
+    :::::: BRANCH-CODE ::::::
+}
 
 claas Demo
 {
