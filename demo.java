@@ -1,3 +1,11 @@
+class Master-Branch
+{
+   **** MASTER-CODE ***** 
+   **** MASTER-CODE ***** 
+   **** MASTER-CODE ***** 
+   **** MASTER-CODE ***** 
+}
+
 claas Demo
 {
   public static void main(....)
